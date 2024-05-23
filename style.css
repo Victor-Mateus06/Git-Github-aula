@@ -1,0 +1,27 @@
+    *{
+        margin: 0;
+    }
+    
+    h1{
+        background-color: #00ffff;
+        margin: 20px;
+    }
+    h2{
+        background-color: rgb(255, 165, 0);
+        margin: 10px;
+        padding: 10px;
+    }
+    p{
+        color: rgba(255, 0, 255, 0.9);
+        margin: 20px;
+        padding: 5px;
+    }
+    img{
+        margin: 50px;
+        border: 20px solid;
+        border-color: red yellow green blue;
+    }
+
+    #tema {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
